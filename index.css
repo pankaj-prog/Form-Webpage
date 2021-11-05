@@ -1,5 +1,16 @@
 *{
     box-sizing: border-box;
-    margin: none;
-    padding:none;
+    margin: 0;
+    padding:0;
 }
+header{
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.8);
+	text-align: center;
+	color: rgb(224, 220, 220);
+	box-shadow: 0 8px 6px -6px black;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+
